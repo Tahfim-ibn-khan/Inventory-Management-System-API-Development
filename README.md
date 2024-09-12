@@ -1,1 +1,2 @@
 # Inventory-Management-System-API-Development
+Developed and tested a scalable API for an inventory management system using Node.js, Express.js, and MongoDB. The API supports key business functions such as product and supplier management, customer management, sales tracking, return processing, stock control, and business performance analytics (profit-loss-growth). Used Postman extensively for API testing and validation to ensure functionality and performance.
